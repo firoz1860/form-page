@@ -46,7 +46,3 @@ Nitin Malhotra, nitinmalhotra, 9191919191
 Kavya Rao, kavyarao, 8080808080
 Ishaan Kapoor, ishaankapoor, 7979797979
 Meera Chawla, meerachawla, 6868686868
-
-Notes
-Data is stored only in frontend state + localStorage.
-Clearing browser storage will remove saved entries.
