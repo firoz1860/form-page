@@ -25,11 +25,12 @@ Clearing browser storage will remove saved entries.
 - CSS (no UI libraries)
 
 ## Setup & Run
-```bash
 npm install
 npm run dev
-
 Bulk Paste Format
+```bash
+
+
 Ayesha Khan, ayesha, 9876543210
 Farhan Ali, farhanali, 9991112233
 Arjun Mehta, arjun.mehta, 9123456789
