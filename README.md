@@ -14,6 +14,10 @@ A simple frontend React app to add, view, search, update, delete, and bulk-impor
 - Dropdown bulk paste (multiple entries at once)
 - Toast popup on Add / Update / Delete / Bulk Add
 - Dark/Light theme toggle
+- Notes
+Data is stored only in frontend state + localStorage.
+Clearing browser storage will remove saved entries.
+
 
 ## Tech Stack
 - React (Functional Components)
